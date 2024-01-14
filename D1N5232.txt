@@ -1,0 +1,9 @@
+
+*$
+.model D1N5232	D(Is=1.154f Rs=.9471 Ikf=0 N=1 Xti=3 Eg=1.11 Cjo=150p M=.5788
++		Vj=.75 Fc=.5 Isr=1.625n Nr=2 Bv=5.6 Ibv=62.583m Nbv=.62382
++		Ibvl=631.96u Nbvl=50 Tbv1=267.86u)
+*		Motorola	pid=1N5232	case=DO-35
+*		89-9-18 gjg
+*		Vz = 5.6 @ 20mA, Zz = 40 @ 1mA, Zz = 4.5 @ 5mA, Zz = 1.9 @ 20mA
+*$
